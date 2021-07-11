@@ -1,5 +1,3 @@
-# Graded Chinese Reader 1500 Words by 史迹
-
 ## Description
 
 ```
