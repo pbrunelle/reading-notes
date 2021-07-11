@@ -19,4 +19,6 @@ Contains abridged versions of 6 stories written in Chinese.
 
 ## Quotes
 
+- (p.33): “像我这样幸福的人，怎么会生气呢？” 我生气地说。
+
 ## Trivia
