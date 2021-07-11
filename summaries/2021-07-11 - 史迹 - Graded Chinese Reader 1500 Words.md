@@ -1,13 +1,13 @@
-# Title, by author
+# Graded Chinese Reader 1500 Words by 史迹
 
 ## Description
 
 ```
-Author:
-Title:
-Publication date:
-Reading date:
-Template version:
+Author: 史迹
+Title: Graded Chinese Reader 1500 Words
+Publication date: 2013
+Reading date: 2021-07-11
+Template version: v1
 Comments:
 ```
 
