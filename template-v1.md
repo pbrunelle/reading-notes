@@ -1,5 +1,3 @@
-# Title, by author
-
 ## Description
 
 ```
