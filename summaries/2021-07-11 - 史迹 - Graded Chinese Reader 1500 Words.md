@@ -13,7 +13,7 @@ Comments:
 
 Contains abridged versions of 6 stories written in Chinese.
 
-- 1st story: After high school, 3 classmates (the narrator and his friends 花花 and 铁山) fail the university entrance exam, are unemployed. The narrator feels unsatisfied, useless, and misunderstood by his well-meaning family.
+- 1st story: After high school, 3 classmates (the narrator and his friends 华华 and 铁山) fail the university entrance exam, are unemployed. The narrator feels unsatisfied, useless, and misunderstood by his well-meaning family.
 
 ## Discussion
 
